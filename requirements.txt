@@ -1,0 +1,28 @@
+# Core Libraries
+uvicorn
+lxml --only-binary=:all:
+requests==2.31.0
+beautifulsoup4==4.12.2
+pdfplumber==0.10.3
+PyMySQL==1.1.0
+mysql-connector-python==8.2.0
+pyfiglet==0.8.post1
+thefuzz
+fuzzywuzzy
+python-Levenshtein 
+nltk==3.8.1 
+nltk==3.8.1  
+dataclasses==0.6 
+glob2==0.5
+urllib3==2.2.0
+pytz==2024.1
+chardet==5.2.0 
+psycopg2-binary==2.9.9
+PyMuPDF
+
+# ESCO Skill Extractor
+esco-skill-extractor==0.1.15
+
+# for API
+fastapi
+pydantic

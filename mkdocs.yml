@@ -1,0 +1,6 @@
+site_name: SKILLAB Universities Curriculum
+repo_url: https://github.com/skillab-project/curriculum-skills
+
+nav:
+  - General Info: 'index.md'
+  - Testing: 'testing.md'
